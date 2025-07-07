@@ -7,7 +7,8 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[My Project Video](assets/demo.mp4)
+
+<img src="./assets/demo.mp4" width="800px">
 
 </div>
 
