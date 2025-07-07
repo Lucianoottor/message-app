@@ -8,7 +8,9 @@
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-<img src="./assets/demo.gif" width="800px">
+<div align="center">
+  <img src="./assets/demo.gif" width="800">
+</div>
 
 </div>
 
