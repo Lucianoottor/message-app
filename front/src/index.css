@@ -1,0 +1,34 @@
+/* /src/index.css */
+
+/*
+  Esta diretiva injeta os estilos base do Tailwind,
+  que incluem um reset CSS moderno (para normalizar os estilos entre navegadores)
+  e quaisquer estilos base definidos na sua configuração.
+*/
+@tailwind base;
+
+/*
+  Esta diretiva injeta as classes de componentes do Tailwind.
+  São classes pré-construídas que você normalmente não precisa, a menos que
+  esteja a usar plugins que as adicionam.
+*/
+@tailwind components;
+
+/*
+  Esta diretiva injeta todas as classes de utilitário do Tailwind.
+  É aqui que toda a magia acontece, disponibilizando classes como
+  p-4, m-2, text-lg, etc., para toda a sua aplicação.
+*/
+@tailwind utilities;
+
+/* Opcional: Você pode adicionar os seus próprios estilos globais aqui, se necessário.
+  Por exemplo, para definir um estilo de corpo padrão ou uma fonte personalizada.
+*/
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

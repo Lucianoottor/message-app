@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "SecurePassword",
+    "database": "secure_chat_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
